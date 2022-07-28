@@ -1,4 +1,4 @@
-require '../solver'
+require_relative '../solver'
 require 'yaml'
 
 describe Solver do
